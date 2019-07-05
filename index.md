@@ -1,8 +1,8 @@
 ---
 layout: home
 title: Lens by HTML5 UP
----
 
+---
 <!-- Thumbnail -->
 <section id="thumbnails">{% for photo in site.photos %}
 	<article>
